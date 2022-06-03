@@ -1,4 +1,4 @@
-# horrible-google-search
-A list of horrible search engines and the pain they have caused.  
+# horrible Search Engines 
+A horrible list of search engines and the pain they cause.  
 
 ![blah](https://img.shields.io/badge/horrible-horrible-red)
